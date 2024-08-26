@@ -3,7 +3,6 @@
 **README.md:**
 
 ```markdown
-# Cloud-Based Virtualization Management Dashboard
 
 ## Project Overview
 The Cloud-Based Virtualization Management Dashboard is a web-based application that allows users to manage virtual machines (VMs) in the cloud. It supports starting, stopping, and rebooting VMs and monitors their health using a simple web interface. This project uses AWS EC2 instances as an example, but the system can be extended to support multiple cloud providers.
